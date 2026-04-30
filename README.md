@@ -1,2 +1,4 @@
-# mail-test
-email collection test
+# Contact
+
+Research contact:
+sifipote@eripo.net
