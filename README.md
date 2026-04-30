@@ -4,6 +4,6 @@ Contact:
 sifipote@eripo.net
 
 Topics:
-- email security
-- phishing analysis
-- spam research
+- email
+- analysis
+- research
