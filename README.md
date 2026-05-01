@@ -1,7 +1,7 @@
 # Security Notes
 
 Contact:
-sifipote@eripo.net
+sifipote+git@eripo.net
 
 Topics:
 - email
